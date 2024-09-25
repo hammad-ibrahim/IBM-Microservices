@@ -16,6 +16,7 @@
       <change afterPath="$PROJECT_DIR$/swagger_example/app.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/swagger_example/swagger_config.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/swagger_example/swagger_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CRUD/products.py" beforeDir="false" afterPath="$PROJECT_DIR$/CRUD/products.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server.py" beforeDir="false" />
