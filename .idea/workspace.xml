@@ -7,6 +7,7 @@
     <list default="true" id="5a896d3b-046d-40e9-b9cb-81a9f8751919" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/CRUD/static/swagger.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise 1 Understand the server application.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/graphql_example/Dockerfile" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/graphql_example/UScities.json" afterDir="false" />
